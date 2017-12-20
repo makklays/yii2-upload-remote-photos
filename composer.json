@@ -24,7 +24,7 @@
   },
 
   "extra": {
-    "bootstrap": "makklays\\uploadRemotePhotos\\Bootstrap",
+    "bootstrap": "makklays\\uploadRemotePhotos\\Bootstrap"
   },
 
   "autoload": {
