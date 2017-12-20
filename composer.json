@@ -4,7 +4,6 @@
   "type": "yii2-extension",
 
   "description": "Upload photos from remote host and save it on system of file (site) for the Yii2 framework",
-  "version": "1.0",
   "keywords": ["yii2", "remote upload", "photo", "image"],
   "license": "MIT",
   "authors": [
