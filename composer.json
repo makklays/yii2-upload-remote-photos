@@ -4,7 +4,7 @@
   "type": "yii2-extension",
 
   "description": "Upload photos from remote host and save it on system of file (site) for the Yii2 framework",
-  "version": "1.0.x",
+  "version": "1.0",
   "keywords": ["yii2", "remote upload", "photo", "image"],
   "license": "MIT",
   "authors": [
@@ -15,7 +15,6 @@
     }
   ],
 
-  "minimum-stability": "stable",
   "require": {
     "php": "^5.3.3 || ^7.0",
     "yiisoft/yii2": "~2.0.0"
@@ -26,9 +25,6 @@
 
   "extra": {
     "bootstrap": "makklays\\uploadRemotePhotos\\Bootstrap",
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
-    }
   },
 
   "autoload": {
