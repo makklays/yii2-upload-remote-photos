@@ -6,7 +6,7 @@ INSTALL / УСТАНОВКА
 
 <br/>
 <div>
-composer require makklays/yii2-uploadRemotePhotos
+composer require makklays/yii2-upload-remote-photos
 </div>
 
 INFORMATION / ИНФОРМАЦИЯ
