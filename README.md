@@ -34,7 +34,7 @@ $pathDir   = Yii::$app->basePath . '/web/new_dir_with_photos';
 </div><br/>
 
 <div>
-$up = new uploadRemotePhotos\uploadRemotePhotos('up');
+$up = new upload-remote-photos\uploadRemotePhotos('up');
 </div>
 <div>
 $up->upload($remoteUrl, $pathDir);

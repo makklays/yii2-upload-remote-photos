@@ -1,5 +1,5 @@
 {
-  "name": "makklays/yii2-uploadRemotePhotos",
+  "name": "makklays/yii2-upload-remote-photos",
 
   "type": "yii2-extension",
 
@@ -8,7 +8,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Alexander K",
+      "name": "Alexander Kuziv",
       "email": "makklays@gmail.com",
       "role": "Developer"
     }
